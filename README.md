@@ -46,6 +46,3 @@ Contributions to improve the script or enhance its functionality are always welc
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-You can adjust the repository URL and any other specific details as necessary. This description provides a clear overview of the project's purpose, features, and how to use it.
