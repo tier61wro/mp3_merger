@@ -29,7 +29,7 @@
 Clone the repository:
 
 ```bash
-git clone [repository-url]
+git clone git@github.com:tier61wro/mp3_merger.git
 ```
 
 Install dependencies:
